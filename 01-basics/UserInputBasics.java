@@ -25,7 +25,7 @@ public class UserInputBasics {
         if (isStudent) {
             System.out.println("You are enrolled as a Student.");
         } else {
-            System.out.println("You are no longer a Student.");
+            System.out.println("You are NOT enrolled as a Student.");
         }
         
         scanner.close();
