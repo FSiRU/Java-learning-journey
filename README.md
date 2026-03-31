@@ -11,18 +11,18 @@ Documenting my journey from Java basics to advanced concepts. Building projects,
 
 ## ✅ Progress Overview
 
-| Section | Topics | Completed | Progress |
-|---------|--------|-----------|---------|
-| Basics | 1-6 | 0/6 | ░░░░░░░░░░ 0% |
-| Control Flow | 7-24 | 0/18 | ░░░░░░░░░░ 0% |
-| Methods & Scope | 25-29 | 0/5 | ░░░░░░░░░░ 0% |
-| Arrays | 30-38 | 0/9 | ░░░░░░░░░░ 0% |
-| OOP Fundamentals | 39-46 | 0/8 | ░░░░░░░░░░ 0% |
-| Advanced OOP | 47-54 | 0/8 | ░░░░░░░░░░ 0% |
-| Collections & Exceptions | 55-59 | 0/5 | ░░░░░░░░░░ 0% |
-| Advanced Topics | 60-71 | 0/12 | ░░░░░░░░░░ 0% |
+| Section | Topics | Progress |
+|---------|--------|----------- |
+| Basics | 1-6 | 3/6 | 50% |
+| Control Flow | 7-24 | 0/18 | 0% |
+| Methods & Scope | 25-29 | 0/5 | 0% |
+| Arrays | 30-38 | 0/9 | 0% |
+| OOP Fundamentals | 39-46 | 0/8 | 0% |
+| Advanced OOP | 47-54 | 0/8 | 0% |
+| Collections & Exceptions | 55-59 | 0/5 | 0% |
+| Advanced Topics | 60-71 | 0/12 | 0% |
 
-**Overall Progress:** 0/71 (0%)
+**Overall Progress:** 3/71 (0%)
 
 ---
 
@@ -32,9 +32,9 @@ Documenting my journey from Java basics to advanced concepts. Building projects,
 
 | # | Topic | Status | Code | Notes |
 |---|-------|--------|------|-------|
-| 1 | Introduction to Java | ⬜ | - | - |
-| 2 | Variables | ⬜ | - | - |
-| 3 | User Input | ⬜ | - | - |
+| 1 | Introduction to Java | ✅ | - | - |
+| 2 | Variables | ✅ | - | - |
+| 3 | User Input | ✅ | - | - |
 | 4 | Mad Libs Game | ⬜ | - | - |
 | 5 | Arithmetic | ⬜ | - | - |
 | 6 | Shopping Cart Program | ⬜ | - | - |
