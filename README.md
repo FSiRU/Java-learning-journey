@@ -4,7 +4,7 @@ Documenting my journey from Java basics to advanced concepts. Building projects,
 # 📊 Java Learning Progress Tracker
 
 **Course:** Java Mastery (71 Topics)  
-**Started:** [Current Date]  
+**Started:** March 30, 2026 
 **Goal:** Complete all topics with working code examples
 
 ---
@@ -22,7 +22,7 @@ Documenting my journey from Java basics to advanced concepts. Building projects,
 | Collections & Exceptions | 55-59 | 0/5 | 0% |
 | Advanced Topics | 60-71 | 0/12 | 0% |
 
-**Overall Progress:** 3/71 (0%)
+**Overall Progress:** 3/71 (4%)
 
 ---
 
