@@ -14,8 +14,6 @@ public class UserInputArea {
         double area = width * height;
         
         System.out.println("\n=== Calculation ===");
-        System.out.println("Width: " + width + " cm");
-        System.out.println("Height: " + height + " cm");
         System.out.println("The area is: " + area + " cm²");
         
         scanner.close();
