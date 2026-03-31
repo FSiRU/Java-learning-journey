@@ -2,7 +2,6 @@
 
 **Course:** Java Mastery (71 Topics)  
 **Started:** March 30, 2026 
-
 **Goal:** Complete all topics with working code examples
 
 ---
