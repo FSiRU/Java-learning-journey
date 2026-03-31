@@ -1,10 +1,8 @@
-# Java-learning-journey
-Documenting my journey from Java basics to advanced concepts. Building projects, solving problems, and growing daily.
-
 # 📊 Java Learning Progress Tracker
 
 **Course:** Java Mastery (71 Topics)  
 **Started:** March 30, 2026 
+
 **Goal:** Complete all topics with working code examples
 
 ---
