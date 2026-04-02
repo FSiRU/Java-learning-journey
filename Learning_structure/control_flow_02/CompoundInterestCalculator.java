@@ -25,9 +25,9 @@ public class CompoundInterestCalculator {
         System.out.print("Enter the number of years: ");
         years = scanner.nextInt();
 
-        amount = principal * Math.pow(1 + rate / timesCompound, timesCompound * years);
+        amount = principal * Math.pow(1 + (rate/100) / timesCompound, timesCompound * years);
 
-        System.out.print("The Amount after " + years + " years is $" + amount + ".");
+        System.out.printf("The Amount after %d years is $%.2f\n", years, amount);
 
 
         scanner.close();
