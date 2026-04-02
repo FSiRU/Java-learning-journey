@@ -21,6 +21,8 @@ public class MathExercise1 {
         c = Math.sqrt(Math.pow(a,2) + Math.pow(b,2));
 
         System.out.println("The Hypotenuse (side c) is : " + c);
+
+        scanner.close();
     }
 
 }
