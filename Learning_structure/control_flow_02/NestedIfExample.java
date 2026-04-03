@@ -7,8 +7,6 @@ public class NestedIfExample {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("=== NESTED IF STATEMENTS ===\n");
-
         System.out.println("--- College Admission Check ---");
 
         System.out.print("Enter your test score (0-100): ");
@@ -37,8 +35,6 @@ public class NestedIfExample {
                 System.out.println("   But you are close! Consider retaking the test.");
             }
         }
-
-        System.out.println("\n--- End of Program ---");
 
         scanner.close();
     }
