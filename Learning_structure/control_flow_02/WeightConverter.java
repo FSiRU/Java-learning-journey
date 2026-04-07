@@ -22,13 +22,13 @@ public class WeightConverter {
             System.out.print("Enter weight in lbs: ");
             weight = scanner.nextDouble();
             newWeight = weight * 0.453592;
-            System.out.printf("The new weight in kgs is: %.2f", newWeight);
+            System.out.printf("\n%.2f lbs = %.2f kgs\n", weight, newWeight);
         }
         else if (choice == 2) {
             System.out.print("Enter weight in kgs: ");
             weight = scanner.nextDouble();
             newWeight = weight * 2.20462;
-            System.out.printf("The new weight in lbs is: %.2f", newWeight);
+            System.out.printf("\n%.2f lbs = %.2f kgs\n", weight, newWeight);
         }
         else {
             System.out.println("That was not a valid choice");
