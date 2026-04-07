@@ -1,0 +1,2 @@
+echo Main-Class: control_flow_02.TemperatureConverterGUI > manifest.txt
+echo. >> manifest.txt
