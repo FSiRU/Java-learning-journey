@@ -10,19 +10,25 @@ public class TernaryOperator {
 
         // variable = (condition) ? ifTrue : ifFalse;
 
+        // PASS or FAIL
         int score = 40;
-        int number = 4;
-        int hours = 13;
-        int income = 60000;
-
         String passOrFail = (score >= 50) ? "PASS" : "FAIL";
-        String evenOrOdd = (number % 2 == 0) ? "EVEN" : "ODD";
-        String timeOfDay = (hours < 12) ? "A.M" : "P.M";
-        double taxRate = (income >= 40000) ? 0.25 : 0.15;
-
         System.out.println(passOrFail);
+
+        // ODD or EVEN
+        int number = 4;
+        String evenOrOdd = (number % 2 == 0) ? "EVEN" : "ODD";
         System.out.println(evenOrOdd);
+
+        // Time of DAY
+        int hours = 13;
+        String timeOfDay = (hours < 12) ? "A.M" : "P.M";
         System.out.println(timeOfDay);
+
+        // Tax Rate
+        int income = 60000;
+        double taxRate = (income >= 40000) ? 0.25 : 0.15;
         System.out.println(taxRate);
+
     }
 }
